@@ -1,0 +1,34 @@
+name: Update Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # প্রতিদিন UTC time অনুযায়ী update
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install snake-cli
+        run: npm install -g gh-profile-snake
+
+      - name: Generate Snake SVG
+        run: snake --dark --output snake.svg
+
+      - name: Commit and Push updated snake
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
