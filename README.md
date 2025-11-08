@@ -1,74 +1,42 @@
-<!-- 🌌 HEADER SECTION -->
+<!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=180&section=header&text=Welcome+to+Tanjil's+GitHub!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=700&size=32&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub!;AI+%26+Robotics+Explorer;Building+the+Future+with+Code+🚀" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=800&lines=AI+%26+Robotics+Explorer+🤖;CSE+Student+at+IUB+🎓;Building+the+Future+with+Code+🚀;Learning+Never+Stops!+💡" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Tanjil%20Sarkar%20|%20AI%20%26%20Robotics%20Explorer&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
-
-### 👨‍💻 About Me  
-🌍 **Name:** Tanjil Sarkar  
-🎓 **Student:** Computer Science and Engineering @ **IUB**  
-🧠 **Interests:** Artificial Intelligence, Machine Learning, Robotics, Embedded Systems  
-🚀 **Currently Working On:** A **CanSat** project combining sensors, telemetry & AI data processing  
-💬 **Ask Me About:** Robotics, Machine Learning, or Python Projects  
-📧 **Email:** [im.tanjilsarkar@gmaiil.com](mailto:im.tanjilsarkar@gmaiil.com)
-
----
-
-### ⚙️ Tech Stack & Tools  
+<!-- About Me Section -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,arduino,raspberrypi,tensorflow,pytorch,opencv,linux,git,github,vscode,docker&perline=9" />
+  👋 Hi, I'm <b>Tanjil Sarkar</b> – a passionate AI & Robotics Explorer, building the future one line of code at a time.
 </p>
 
----
-
-### 🚀 Featured Projects  
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🛰️ **CanSat System** | Mini satellite for data collection & telemetry | Arduino, C, Sensors |
-| 🤖 **Robotic Arm Controller** | Real-time robotic arm movement via CV | Python, OpenCV |
-| 🧠 **AI Object Detection** | Custom-trained YOLOv5 for smart vision | PyTorch, ML |
-| 🔧 **More Coming Soon** | Future AI & Robotics projects | ... |
-
----
-
-### 📊 GitHub Stats  
+<!-- Skills Section -->
+<h3 align="center">💻 Skills</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imtanjilsarkar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanjilsarkar&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-FF6C37?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FB5B00?style=for-the-badge&logo=matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<!-- Connect With Me Section -->
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/imtanjilsarkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/imtanjilsarkar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/imtanjilsarkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
-
-### 🌐 Connect with Me  
+<!-- Snake Animation Section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanjilsarkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/tanjilsarkar123" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:im.tanjilsarkar@gmaiil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 🐍 Contribution Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imtanjilsarkar/imtanjilsarkar/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-### 💫 Quote  
-<p align="center">
-  <em>“Learning by doing, solving real problems, and building the future.” 🌍</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/imtanjilsarkar/imtanjilsarkar/master/snake.svg" alt="Snake Animation" />
 </p>
