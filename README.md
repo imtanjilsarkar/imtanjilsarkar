@@ -1,5 +1,5 @@
 <!-- Profile README for Tanjil Sarkar -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#00b4d8;">Tanjil Sarkar</span></h1>
+<h1 align="center">Hi there, I'm <span style="color:#00b4d8;">Tanjil Sarkar</span></h1>
 <h3 align="center">💻 AI & Robotics Enthusiast | CSE Student at IUB | Lifelong Learner 🤖</h3>
 
 ---
