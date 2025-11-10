@@ -21,7 +21,17 @@
 
 ### ⚙️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,arduino,raspberrypi,tensorflow,pytorch,opencv,linux,git,github,vscode,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,arduino,raspberrypi,tensorflow,pytorch,opencv,linux,git,github,vscode,docker&perline=9" />
+</p>
+
+---
+
+### 🏆 Main Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
@@ -43,8 +53,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
+
+> ✅ Python, Java, C, and C++ are highlighted manually, while Top-Langs shows all other active languages.
 
 ---
 
