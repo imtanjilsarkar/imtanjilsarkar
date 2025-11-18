@@ -10,12 +10,12 @@
 ---
 
 ### 👨‍💻 About Me  
-🌍 **Name:** Tanjil Sarkar  
-🎓 **Student:** Computer Science and Engineering @ **Independent University Bangladesh**  
-🧠 **Interests:** Artificial Intelligence, Machine Learning, Robotics, Embedded Systems  
-🚀 **Currently Working On:** A **CanSat** project combining sensors, telemetry & AI data processing  
-💬 **Ask Me About:** Robotics, Machine Learning, or Python Projects  
-📧 **Email:** [im.tanjilsarkar@gmaiil.com](mailto:im.tanjilsarkar@gmaiil.com)
+ **Name:** Tanjil Sarkar  
+ **Student:** Computer Science and Engineering @ **Independent University Bangladesh**  
+ **Interests:** Artificial Intelligence, Machine Learning, Robotics, Embedded Systems  
+ **Currently Working On:** A **CanSat** project combining sensors, telemetry & AI data processing  
+ **Ask Me About:** Robotics, Machine Learning, or Python Projects  
+ **Email:** [im.tanjilsarkar@gmaiil.com](mailto:im.tanjilsarkar@gmaiil.com)
 
 ---
 
