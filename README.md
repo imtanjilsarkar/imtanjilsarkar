@@ -111,11 +111,13 @@ Note: The top languages section is based on public repository code size and may 
 
 ---
 
+
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imtanjilsarkar/imtanjilsarkar/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imtanjilsarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
 
