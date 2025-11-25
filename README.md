@@ -91,8 +91,6 @@ More details are available in individual repositories.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
-Note: The top languages section is based on public repository code size and may not perfectly represent actual expertise.
-
 ---
 
 ## Connect with Me
