@@ -1,130 +1,121 @@
-<!-- HEADER -->
+<!-------------------- HEADER BANNER -------------------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=180&section=header&text=Tanjil%20Sarkar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F1E,100:1A2A4A&height=280&section=header&text=Tanjil%20Sarkar&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20%7C%20AI%20%26%20Robotics&descSize=20&descAlignY=60" width="100%" alt="Banner">
+  </picture>
 </p>
 
+<!-- Professional Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=22&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=800&lines=CSE%20Student%20at%20IUB;AI%20and%20Robotics%20Enthusiast;Learning%20by%20Building%20Real%20Projects" alt="Typing SVG" />
-</p>
-
----
-
-## About Me
-
-- Undergraduate student in **Computer Science and Engineering** at **Independent University, Bangladesh (IUB)**
-- Areas of interest: **Artificial Intelligence**, **Machine Learning**, **Robotics**, and **Embedded Systems**
-- Currently involved in a **CanSat** project focusing on sensors, telemetry, and data processing
-- Open to discussions on:
-  - Python (beginner to intermediate)
-  - Basics of C and C++
-  - Introductory ML and AI project ideas
-- Contact: [im.tanjilsarkar@gmaiil.com](mailto:im.tanjilsarkar@gmaiil.com)
-
----
-
-## Current Goals (2025)
-
-I am currently focused on:
-
-- Strengthening my problem-solving skills in algorithms and data structures  
-- Building end-to-end projects in Python (from idea to deployment)  
-- Gaining more hands-on experience with embedded systems and sensor-based projects  
-- Exploring practical applications of machine learning in small, real-world projects  
-- Improving documentation, code quality, and collaboration through open-source contributions  
-
----
-
-## Teaching and Mentoring
-
-- Informally tutoring fellow CSE students in core courses such as:
-  - Programming fundamentals
-  - Basic data structures
-  - Introductory mathematics for computer science
-- Helping peers understand concepts through examples, problem breakdown, and step-by-step explanations
-- Interested in creating structured learning resources and simple guides for beginners in programming and AI
-
----
-
-## Tech Stack and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,arduino,raspberrypi,tensorflow,pytorch,opencv,linux,git,github,vscode,docker&perline=9" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=1000&color=5A7CDE&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+at+IUB;Artificial+Intelligence+Developer;Robotics+Systems+Enthusiast;Building+Scalable+Solutions" alt="Typing Animation" />
 </p>
 
 ---
 
-## Main Programming Languages
+## Professional Summary
 
-These are the languages I use most frequently in my projects.  
-(Manually maintained, not auto-generated.)
+Computer Science and Engineering undergraduate at **Independent University, Bangladesh (IUB)** with focus on artificial intelligence, robotics, and embedded systems. Currently developing a **CanSat** project involving real-time sensor integration, telemetry transmission, and data processing. Demonstrates strong problem-solving capability through algorithm design and system-level programming.
 
+Core competencies span:
+- **Artificial Intelligence & Machine Learning** – Model development, computer vision, practical deployment
+- **Robotics & Embedded Systems** – Sensor fusion, microcontroller programming, real-time data handling
+- **Software Engineering** – Clean code practices, version control, documentation standards
+
+---
+
+## 2026 Strategic Focus
+
+| Domain | Current Activities |
+|--------|---------------------|
+| Algorithms & Data Structures | Competitive programming, complexity analysis, optimization techniques |
+| Applied AI | End-to-end ML projects, model deployment, computer vision applications |
+| Embedded Systems | Sensor integration, telemetry systems, real-time processing |
+| Open Source | Documentation, code reviews, community contributions |
+
+---
+
+## Technical Competencies
+
+### Languages & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+</p>
+
+### AI & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Hardware & IoT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+### Tools & Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
 </p>
 
 ---
 
-## Selected Projects
+## Project Portfolio
 
-| Project | Description | Tech Stack |
-|--------|-------------|-----------|
-| CanSat System | Miniature satellite for environmental data collection and telemetry experiments | Arduino, C, Sensors |
-| Robotic Arm Controller | Control of a simple robotic arm with computer vision-based feedback | Python, OpenCV |
-| AI Object Detection | Object detection using a custom-trained YOLO-based model | Python, PyTorch |
-| Practice and Experiments | Competitive programming, small utilities, and learning-oriented repositories | Python, C/C++, Java |
-
-More details are available in individual repositories.
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **CanSat Telemetry System** | Miniature satellite platform for environmental monitoring | Arduino, C++, Sensor Networks |
+| **Robotic Control Interface** | Vision-guided robotic arm with real-time feedback | Python, OpenCV, Microcontrollers |
+| **Object Detection Pipeline** | Custom YOLO implementation for automated recognition | PyTorch, Computer Vision |
+| **Algorithmic Problem Solving** | Data structure implementations and optimization challenges | Python, C++, Java |
 
 ---
 
-## GitHub Overview
+## GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imtanjilsarkar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanjilsarkar&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imtanjilsarkar&show_icons=true&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&icon_color=5A7CDE&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanjilsarkar&theme=dark&background=0A0F1E&ring=5A7CDE&fire=5A7CDE&currStreakLabel=5A7CDE&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtanjilsarkar&theme=github-dark&bg_color=0A0F1E&hide_border=true&color=5A7CDE&line=5A7CDE&point=FFFFFF&area=true" width="90%" />
 </p>
 
 ---
 
-## Connect with Me
+## Professional Development
+
+- **Mentorship**: Providing guidance to undergraduate peers in programming fundamentals, data structures, and computational mathematics
+- **Content Creation**: Developing structured learning resources for entry-level AI and programming concepts
+- **Collaboration**: Engaging in code reviews and technical documentation for open source initiatives
+
+---
+
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanjilsarkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:im.tanjilsarkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0F1E?style=for-the-badge&logo=gmail&logoColor=5A7CDE" />
   </a>
-  <a href="https://www.facebook.com/tanjilsarkar123" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://linkedin.com/in/tanjilsarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=5A7CDE" />
   </a>
-  <a href="mailto:im.tanjilsarkar@gmaiil.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/imtanjilsarkar">
+    <img src="https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=5A7CDE" />
   </a>
 </p>
 
 ---
 
-
-## Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imtanjilsarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <i>Solving problems through code · Building intelligent systems · Continuous improvement</i>
 </p>
 
-
----
-
-## Personal Note
-
+<!-------------------- FOOTER -------------------->
 <p align="center">
-  I am focused on improving consistently, learning from real projects, and building a strong foundation in computer science.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F1E,100:1A2A4A&height=100&section=footer" width="100%" />
 </p>
