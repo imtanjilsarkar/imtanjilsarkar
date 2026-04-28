@@ -15,23 +15,32 @@
 
 ## Professional Summary
 
-Computer Science and Engineering undergraduate at **Independent University, Bangladesh (IUB)** with focus on artificial intelligence, robotics, and embedded systems. Currently developing a **CanSat** project involving real-time sensor integration, telemetry transmission, and data processing. Demonstrates strong problem-solving capability through algorithm design and system-level programming.
+Computer Science and Engineering undergraduate at **Independent University, Bangladesh (IUB)** with growing expertise in **Artificial Intelligence, Software Development, Algorithms, and Embedded Systems**. Strong academic foundation through coursework in **Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Machine Learning**.
 
-Core competencies span:
-- **Artificial Intelligence & Machine Learning** – Model development, computer vision, practical deployment
-- **Robotics & Embedded Systems** – Sensor fusion, microcontroller programming, real-time data handling
-- **Software Engineering** – Clean code practices, version control, documentation standards
+Currently contributing to a **CanSat** project focused on real-time environmental data collection, sensor integration, telemetry communication, and system design. Passionate about transforming ideas into practical solutions through clean engineering and continuous learning.
 
+Demonstrates strong analytical thinking, adaptability, and hands-on project experience across both software and hardware domains.
+
+### Core Competencies
+
+- **Artificial Intelligence & Machine Learning** – Model development, applied ML concepts, data-driven problem solving  
+- **Algorithms & Problem Solving** – Efficient logic building, optimization thinking, structured programming  
+- **Robotics & Embedded Systems** – Microcontroller programming, sensor integration, real-time systems  
+- **Software Engineering** – Clean code practices, Git/GitHub workflow, documentation standards  
+- **Database Systems** – SQL, relational database design, query optimization fundamentals  
 ---
 
 ## 2026 Strategic Focus
 
 | Domain | Current Activities |
 |--------|---------------------|
-| Algorithms & Data Structures | Competitive programming, complexity analysis, optimization techniques |
-| Applied AI | End-to-end ML projects, model deployment, computer vision applications |
-| Embedded Systems | Sensor integration, telemetry systems, real-time processing |
-| Open Source | Documentation, code reviews, community contributions |
+| **Algorithms & Data Structures** | Problem solving, competitive programming, complexity analysis, optimization techniques |
+| **Applied AI & Machine Learning** | End-to-end ML projects, model building, deployment, computer vision applications |
+| **Embedded Systems & IoT** | Sensor integration, telemetry systems, real-time data processing, hardware prototyping |
+| **Software Development** | Full-stack project building, clean architecture, Git/GitHub collaboration |
+| **Database Systems** | SQL practice, schema design, query optimization, backend data handling |
+| **Research & Innovation** | Exploring impactful tech ideas, academic projects, real-world problem solving |
+| **Open Source** | Documentation, code reviews, community contributions, collaborative learning |
 
 ---
 
@@ -63,10 +72,12 @@ Core competencies span:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **CanSat Telemetry System** | Miniature satellite platform for environmental monitoring | Arduino, C++, Sensor Networks |
-| **Robotic Control Interface** | Vision-guided robotic arm with real-time feedback | Python, OpenCV, Microcontrollers |
-| **Object Detection Pipeline** | Custom YOLO implementation for automated recognition | PyTorch, Computer Vision |
-| **Algorithmic Problem Solving** | Data structure implementations and optimization challenges | Python, C++, Java |
+| **CanSat Telemetry System** | Miniature satellite platform for environmental monitoring, real-time sensor data collection, and wireless transmission | Arduino, C++, LoRa, Sensor Networks |
+| **Smart Study Planner** | Productivity-focused planner concept for students using structured scheduling and intelligent task management | Python, AI Concepts, UI/UX |
+| **Tuition Finder Platform** | Platform idea to help students and guardians find tutors efficiently in Dhaka | Web Development, Database Systems, PHP, SQL |
+| **Algorithmic Problem Solving** | Data structure implementations, coding challenges, and optimization-focused solutions | Python, C++, Java |
+| **Database Management Projects** | Relational database design, SQL queries, normalization, and backend data handling projects | MySQL, SQL |
+| **Machine Learning Experiments** | Hands-on learning projects involving prediction models, data preprocessing, and applied ML workflows | Python, Scikit-learn, Pandas |
 
 ---
 
@@ -89,9 +100,15 @@ Core competencies span:
 
 ## Professional Development
 
-- **Mentorship**: Providing guidance to undergraduate peers in programming fundamentals, data structures, and computational mathematics
-- **Content Creation**: Developing structured learning resources for entry-level AI and programming concepts
-- **Collaboration**: Engaging in code reviews and technical documentation for open source initiatives
+- **Mentorship**: Providing academic guidance to undergraduate peers in programming fundamentals, data structures, algorithms, and computational mathematics through tutoring experience  
+
+- **Content Creation**: Building structured learning resources for beginners in programming, AI concepts, and computer science fundamentals through educational initiatives  
+
+- **Collaboration**: Participating in team-based academic projects, technical documentation, version control workflows, and collaborative development environments  
+
+- **Continuous Learning**: Actively expanding skills in C++, Python, machine learning, software engineering, and emerging technologies  
+
+- **Leadership & Initiative**: Driving student-focused ideas, project coordination, and self-started learning communities with practical impact  
 
 ---
 
