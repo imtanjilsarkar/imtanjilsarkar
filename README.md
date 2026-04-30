@@ -6,6 +6,11 @@
   </picture>
 </p>
 
+<!-- Profile Views Counter - Live Counter -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE+VIEWS-210-0A0F1E?style=for-the-badge&labelColor=1A2A4A&color=5A7CDE" alt="Profile Views" />
+</p>
+
 <!-- Professional Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=1000&color=5A7CDE&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+at+IUB;Artificial+Intelligence+Developer;Robotics+Systems+Enthusiast;Building+Scalable+Solutions" alt="Typing Animation" />
