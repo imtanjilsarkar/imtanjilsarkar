@@ -8,7 +8,7 @@
 
 <!-- Profile Views Counter - Live Counter -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE+VIEWS-218-0A0F1E?style=for-the-badge&labelColor=1A2A4A&color=5A7CDE" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/PROFILE+VIEWS-238-0A0F1E?style=for-the-badge&labelColor=1A2A4A&color=5A7CDE" alt="Profile Views" />
 </p>
 
 <!-- Professional Typing Intro -->
