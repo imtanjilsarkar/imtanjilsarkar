@@ -1,6 +1,6 @@
 <!-------------------- HEADER BANNER -------------------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,100:1A2A4A&height=280&section=header&text=Tanjil%20Sarkar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20AI%20%26%20Robotics&descSize=20&descAlignY=60" width="100%" alt="Banner">
+  <img src="./banner.svg" width="100%" alt="Tanjil Sarkar — Computer Science | AI & Robotics Banner">
 </p>
 
 <!-- Live Profile Views Counter -->
@@ -27,12 +27,12 @@ I'm a Computer Science & Engineering undergraduate at **Independent University, 
 
 Alongside coursework, I've spent **3+ years tutoring undergraduate peers** in CSE101, PHY101, MAT104, MAT121/212, CSE201, and CIS101, and I served as **Campus Director for the Millennium Fellowship (Class of 2025)**.
 
-- 🔭 Currently building **HealthBD** — a unified digital healthcare platform (AI prescription tool + patient symptom-checker)
-- 🛰️ Contributing to a **CanSat** team project — real-time environmental sensing and telemetry
-- 🧑‍🏫 3+ years of peer tutoring in programming, math, and CS fundamentals
-- 🌱 Deepening my C++ and applied ML skills
-- 🎥 Building out a CS education channel, *Your CSE Mentor Tanjil*
-- 💬 Native in Bangla, fluent in English
+-  Currently building **HealthBD** — a unified digital healthcare platform (AI prescription tool + patient symptom-checker)
+-  Contributing to a **CanSat** team project — real-time environmental sensing and telemetry
+-  3+ years of peer tutoring in programming, math, and CS fundamentals
+-  Deepening my C++ and applied ML skills
+-  Building out a CS education channel, *Your CSE Mentor Tanjil*
+-  Native in Bangla, fluent in English
 
 ---
 
@@ -69,12 +69,12 @@ Alongside coursework, I've spent **3+ years tutoring undergraduate peers** in CS
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imtanjilsarkar&show_icons=true&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&icon_color=5A7CDE&text_color=C9D1D9&hide_border=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=imtanjilsarkar&theme=dark&background=0A0F1E&ring=5A7CDE&fire=5A7CDE&currStreakLabel=5A7CDE&hide_border=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=imtanjilsarkar&show_icons=true&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&icon_color=5A7CDE&text_color=C9D1D9&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=imtanjilsarkar&theme=dark&background=0A0F1E&ring=5A7CDE&fire=5A7CDE&currStreakLabel=5A7CDE&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&text_color=C9D1D9&hide_border=true&cache_seconds=86400" />
+  <img width="80%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&text_color=C9D1D9&hide_border=true" />
 </p>
 
 <p align="center">
