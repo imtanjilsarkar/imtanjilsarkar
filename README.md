@@ -1,143 +1,99 @@
 <!-------------------- HEADER BANNER -------------------->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F1E,100:1A2A4A&height=280&section=header&text=Tanjil%20Sarkar&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20%7C%20AI%20%26%20Robotics&descSize=20&descAlignY=60" width="100%" alt="Banner">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,100:1A2A4A&height=280&section=header&text=Tanjil%20Sarkar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20AI%20%26%20Robotics&descSize=20&descAlignY=60" width="100%" alt="Banner">
 </p>
 
-<!-- Profile Views Counter - Live Counter -->
+<!-- Live Profile Views Counter -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE+VIEWS-238-0A0F1E?style=for-the-badge&labelColor=1A2A4A&color=5A7CDE" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imtanjilsarkar&style=for-the-badge&color=5A7CDE&label=PROFILE+VIEWS&labelColor=0A0F1E" alt="Profile Views" />
 </p>
 
-<!-- Professional Typing Intro -->
+<!-- Professional Typing Intro (demolab mirror — herokuapp is deprecated) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=1000&color=5A7CDE&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+at+IUB;Artificial+Intelligence+Developer;Robotics+Systems+Enthusiast;Building+Scalable+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1000&color=5A7CDE&center=true&vCenter=true&width=800&lines=CSE+Undergraduate+at+IUB;AI+%26+Full-Stack+Developer;Robotics+%26+Embedded+Systems+Enthusiast;Building+Scalable%2C+Real-World+Solutions" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <a href="mailto:im.tanjilsarkar@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1E?style=for-the-badge&logo=gmail&logoColor=5A7CDE" /></a>
+  <a href="https://linkedin.com/in/tanjilsarkar"><img src="https://img.shields.io/badge/LinkedIn-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=5A7CDE" /></a>
+  <a href="https://github.com/imtanjilsarkar"><img src="https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=5A7CDE" /></a>
 </p>
 
 ---
 
-## Professional Summary
+## About Me
 
-Computer Science and Engineering undergraduate at **Independent University, Bangladesh (IUB)** with growing expertise in **Artificial Intelligence, Software Development, Algorithms, and Embedded Systems**. Strong academic foundation through coursework in **Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Machine Learning**.
+I'm a Computer Science & Engineering undergraduate at **Independent University, Bangladesh (IUB)**, focused on **AI/ML, full-stack development, and embedded systems**. I like turning ideas into working, shippable products — from AI-powered healthcare tools to computer-vision utilities and IoT telemetry systems.
 
-Currently contributing to a **CanSat** project focused on real-time environmental data collection, sensor integration, telemetry communication, and system design. Passionate about transforming ideas into practical solutions through clean engineering and continuous learning.
+Alongside coursework, I've spent **3+ years tutoring undergraduate peers** in CSE101, PHY101, MAT104, MAT121/212, CSE201, and CIS101, and I served as **Campus Director for the Millennium Fellowship (Class of 2025)**.
 
-Demonstrates strong analytical thinking, adaptability, and hands-on project experience across both software and hardware domains.
-
-### Core Competencies
-
-- **Artificial Intelligence & Machine Learning** – Model development, applied ML concepts, data-driven problem solving  
-- **Algorithms & Problem Solving** – Efficient logic building, optimization thinking, structured programming  
-- **Robotics & Embedded Systems** – Microcontroller programming, sensor integration, real-time systems  
-- **Software Engineering** – Clean code practices, Git/GitHub workflow, documentation standards  
-- **Database Systems** – SQL, relational database design, query optimization fundamentals  
----
-
-## 2026 Strategic Focus
-
-| Domain | Current Activities |
-|--------|---------------------|
-| **Algorithms & Data Structures** | Problem solving, competitive programming, complexity analysis, optimization techniques |
-| **Applied AI & Machine Learning** | End-to-end ML projects, model building, deployment, computer vision applications |
-| **Embedded Systems & IoT** | Sensor integration, telemetry systems, real-time data processing, hardware prototyping |
-| **Software Development** | Full-stack project building, clean architecture, Git/GitHub collaboration |
-| **Database Systems** | SQL practice, schema design, query optimization, backend data handling |
-| **Research & Innovation** | Exploring impactful tech ideas, academic projects, real-world problem solving |
-| **Open Source** | Documentation, code reviews, community contributions, collaborative learning |
+- 🔭 Currently building **HealthBD** — a unified digital healthcare platform (AI prescription tool + patient symptom-checker)
+- 🛰️ Contributing to a **CanSat** team project — real-time environmental sensing and telemetry
+- 🧑‍🏫 3+ years of peer tutoring in programming, math, and CS fundamentals
+- 🌱 Deepening my C++ and applied ML skills
+- 🎥 Building out a CS education channel, *Your CSE Mentor Tanjil*
+- 💬 Native in Bangla, fluent in English
 
 ---
 
-## Technical Competencies
+## Technical Toolkit
 
-### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs" />
 </p>
-
-### AI & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
-
-### Hardware & IoT
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,firebase,mysql,vercel" />
 </p>
-
-### Tools & Environments
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
 ---
 
-## Project Portfolio
+## Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **CanSat Telemetry System** | Miniature satellite platform for environmental monitoring, real-time sensor data collection, and wireless transmission | Arduino, C++, LoRa, Sensor Networks |
-| **Smart Study Planner** | Productivity-focused planner concept for students using structured scheduling and intelligent task management | Python, AI Concepts, UI/UX |
-| **Tuition Finder Platform** | Platform idea to help students and guardians find tutors efficiently in Dhaka | Web Development, Database Systems, PHP, SQL |
-| **Algorithmic Problem Solving** | Data structure implementations, coding challenges, and optimization-focused solutions | Python, C++, Java |
-| **Database Management Projects** | Relational database design, SQL queries, normalization, and backend data handling projects | MySQL, SQL |
-| **Machine Learning Experiments** | Hands-on learning projects involving prediction models, data preprocessing, and applied ML workflows | Python, Scikit-learn, Pandas |
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imtanjilsarkar&show_icons=true&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&icon_color=5A7CDE&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=imtanjilsarkar&theme=dark&background=0A0F1E&ring=5A7CDE&fire=5A7CDE&currStreakLabel=5A7CDE&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtanjilsarkar&theme=github-dark&bg_color=0A0F1E&hide_border=true&color=5A7CDE&line=5A7CDE&point=FFFFFF&area=true" width="90%" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| **[HealthBD](https://github.com/imtanjilsarkar)** | Unified digital healthcare platform merging an AI-powered doctor-facing prescription tool with a patient-facing symptom checker and doctor-discovery app | Expo / React Native, TypeScript, Firebase, Groq AI |
+| **[PlateShield](https://github.com/imtanjilsarkar)** | Client-side web app that automatically detects and blurs license plates in uploaded video, entirely in-browser | React, Vite, Roboflow API, Canvas, MediaRecorder |
+| **AI Virtual Mouse** | Hand-gesture mouse controller with real-time skeleton tracking, motion trails, and a live HUD — cursor, scroll, click, and right-click, all gesture-driven | Python, OpenCV, MediaPipe |
+| **CanSat Telemetry System** | Team-built miniature satellite platform for real-time environmental data collection and wireless telemetry | Arduino, C++, Sensor Networks |
+| **PiVolve Auto Linker** | Chrome extension that highlights CS keywords on any page and surfaces definitions/links on hover | JavaScript, Manifest V3 |
+| **FindMyTutor Dhaka** | Tuition-matching platform connecting students and guardians with tutors across Dhaka, with filtering and application flows | Google Sheets API, Apps Script, JavaScript |
 
 ---
 
-## Professional Development
-
-- **Mentorship**: Providing academic guidance to undergraduate peers in programming fundamentals, data structures, algorithms, and computational mathematics through tutoring experience  
-
-- **Content Creation**: Building structured learning resources for beginners in programming, AI concepts, and computer science fundamentals through educational initiatives  
-
-- **Collaboration**: Participating in team-based academic projects, technical documentation, version control workflows, and collaborative development environments  
-
-- **Continuous Learning**: Actively expanding skills in C++, Python, machine learning, software engineering, and emerging technologies  
-
-- **Leadership & Initiative**: Driving student-focused ideas, project coordination, and self-started learning communities with practical impact  
-
----
-
-## Connect
+## GitHub Analytics
 
 <p align="center">
-  <a href="mailto:im.tanjilsarkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0F1E?style=for-the-badge&logo=gmail&logoColor=5A7CDE" />
-  </a>
-  <a href="https://linkedin.com/in/tanjilsarkar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=5A7CDE" />
-  </a>
-  <a href="https://github.com/imtanjilsarkar">
-    <img src="https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=5A7CDE" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imtanjilsarkar&show_icons=true&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&icon_color=5A7CDE&text_color=C9D1D9&hide_border=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=imtanjilsarkar&theme=dark&background=0A0F1E&ring=5A7CDE&fire=5A7CDE&currStreakLabel=5A7CDE&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtanjilsarkar&layout=compact&theme=dark&bg_color=0A0F1E&title_color=5A7CDE&text_color=C9D1D9&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtanjilsarkar&theme=github-compact&bg_color=0A0F1E&hide_border=true&color=5A7CDE&line=5A7CDE&point=FFFFFF&area=true&cache_seconds=86400" width="90%" />
 </p>
 
 ---
 
-<p align="center">
-  <i>Solving problems through code · Building intelligent systems · Continuous improvement</i>
-</p>
+## Beyond Code
 
-<!-------------------- FOOTER -------------------->
+- **Mentorship** — 3+ years tutoring CSE, physics, and math courses to undergraduate peers
+- **Leadership** — Millennium Fellowship Campus Director, Class of 2025
+- **Content Creation** — Building *Your CSE Mentor Tanjil*, a YouTube channel for CS students
+- **Client Work** — Delivered a corporate portfolio site for Sansian Marble & Granite (Dhaka)
+
+---
+
+<p align="center"><i>Solving problems through code · Building intelligent systems · Continuous improvement</i></p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F1E,100:1A2A4A&height=100&section=footer" width="100%" />
 </p>
